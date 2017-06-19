@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Dan's GitHub Pages
+
+Here I'll use Markdown to write some interesting things.
 
 You can use the [editor on GitHub](https://github.com/dan80386/dan80386.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
